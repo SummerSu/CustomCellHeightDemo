@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>这是第一条签名</string>
+		<key>name</key>
+		<string>first</string>
+		<key>headImage</key>
+		<string>001.png</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>这是第二条签名有很多第二条签名这是第二条签名有很多第二条签名这是第二条签名有很多第二条签名这是第二条签名有很多第二条签名</string>
+		<key>name</key>
+		<string>second</string>
+		<key>headImage</key>
+		<string>002.png</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>20150504.png</string>
+		<key>text</key>
+		<string>这是第三条签名得有2行多样子</string>
+		<key>name</key>
+		<string>third</string>
+		<key>headImage</key>
+		<string>003.png</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。这是第四条签名，想给他写很长很长只好复制了。</string>
+		<key>name</key>
+		<string>fourthadggsdtarsrgahgedfsdhts</string>
+		<key>headImage</key>
+		<string>004.png</string>
+	</dict>
+</array>
+</plist>
